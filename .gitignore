@@ -415,3 +415,9 @@ renpy/vc_version.py
 renpy/vc_version.pyo
 renpy/warp.py
 renpy/warp.pyo
+files.txt
+errors.txt
+game/saves/navigation.json
+game/self-voice.rpyc
+hxppy thxughts.png
+traceback.txt
