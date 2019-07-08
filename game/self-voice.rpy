@@ -1,6 +1,8 @@
 ##This mod enables self-voicing and associated accessibility features for the
 ##Doki Doki Literature Club game.
 define persistent.self_voiced_firstrun = True
+define config.language = 'blind_accessibility'
+
 
 init 10 python:
     # Re-enable accessibility binds if missing
