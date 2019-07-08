@@ -1,60 +1,60 @@
-﻿# TODO: Translation updated at 2019-07-07 23:21
+﻿# TODO: Translation updated at 2019-07-08 19:02
 
 # game/splash.rpy:234
-translate blind_accessibility splashscreen_f490803a:
+translate None splashscreen_f490803a:
 
     # "Deleting save data...{nw}"
     "Deleting save data...{nw}"
 
 # game/splash.rpy:265
-translate blind_accessibility splashscreen_365de68f:
+translate None splashscreen_365de68f:
 
     # "This game is not suitable for children or those who are easily disturbed."
     "This game is not suitable for children or those who are easily disturbed."
 
 # game/splash.rpy:266
-translate blind_accessibility splashscreen_b895d9b1:
+translate None splashscreen_b895d9b1:
 
     # "Individuals suffering from anxiety or depression may not have a safe experience playing this game. For content warnings, please visit: http://ddlc.moe/warning.html"
     "Individuals suffering from anxiety or depression may not have a safe experience playing this game. For content warnings, please visit: http://ddlc.moe/warning.html"
 
 # game/splash.rpy:434
-translate blind_accessibility after_load_78a4e9dc:
+translate None after_load_78a4e9dc:
 
     # "The save file could not be loaded."
     "The save file could not be loaded."
 
 # game/splash.rpy:435
-translate blind_accessibility after_load_5c5510ae:
+translate None after_load_5c5510ae:
 
     # "Are you trying to cheat?"
     "Are you trying to cheat?"
 
 # game/splash.rpy:439
-translate blind_accessibility after_load_46c240e4:
+translate None after_load_46c240e4:
 
     # m "You're so funny."
     m "You're so funny."
 
 # game/splash.rpy:441
-translate blind_accessibility after_load_e5a463d0:
+translate None after_load_e5a463d0:
 
     # m "You're so funny, [persistent.playername]."
     m "You're so funny, [persistent.playername]."
 
 # game/splash.rpy:514
-translate blind_accessibility readonly_c0c137c6:
+translate None readonly_c0c137c6:
 
     # "The game cannot be run because you are trying to run it from a read-only location."
     "The game cannot be run because you are trying to run it from a read-only location."
 
 # game/splash.rpy:515
-translate blind_accessibility readonly_db394637:
+translate None readonly_db394637:
 
     # "Please copy the DDLC application to your desktop or other accessible location and try again."
     "Please copy the DDLC application to your desktop or other accessible location and try again."
 
-translate blind_accessibility strings:
+translate None strings:
 
     # splash.rpy:231
     old "A previous save file has been found. Would you like to delete your save data and start over?"

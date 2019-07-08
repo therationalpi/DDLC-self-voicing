@@ -1,6 +1,6 @@
-﻿# TODO: Translation updated at 2019-07-07 23:21
+﻿# TODO: Translation updated at 2019-07-08 19:02
 
-translate blind_accessibility strings:
+translate None strings:
 
     # screens.rpy:389
     old "History"
@@ -54,14 +54,6 @@ translate blind_accessibility strings:
     old "Help"
     new "Help"
 
-    # screens.rpy:482
-    old "Quit"
-    new "Quit"
-
-    # screens.rpy:668
-    old "Return"
-    new "Return"
-
     # screens.rpy:747
     old "About"
     new "About"
@@ -90,17 +82,9 @@ translate blind_accessibility strings:
     old "Window"
     new "Window"
 
-    # screens.rpy:950
-    old "Fullscreen"
-    new "Fullscreen"
-
     # screens.rpy:954
     old "Rollback Side"
     new "Rollback Side"
-
-    # screens.rpy:955
-    old "Disable"
-    new "Disable"
 
     # screens.rpy:956
     old "Left"

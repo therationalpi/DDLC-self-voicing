@@ -20,3 +20,4 @@ game/*.rpyc
 hxppy thxughts.png
 traceback.txt
 game/tl/blind_accessibility/*.rpyc
+game/tl/None/*.rpyc
