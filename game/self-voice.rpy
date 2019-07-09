@@ -2,6 +2,16 @@
 ##Doki Doki Literature Club game.
 define persistent.self_voiced_firstrun = True
 
+python early:
+    #Add a new method to Characters to have alternate spoken text for a line
+    def alt(self,what,alt_text,interact=True, **kwargs):
+        temp_alt=self.what_args['alt']
+        self.what_args['alt']=alt_text
+        self.__call__(what,interact=interact, **kwargs)
+        self.what_args['alt']=temp_alt
+
+    setattr(ADVCharacter, 'alt', alt)
+
 init 10 python:
     # Re-enable accessibility binds if missing
     config.keymap['self_voicing'].append([ 'v', 'V' ])
